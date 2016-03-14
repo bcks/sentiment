@@ -1,0 +1,14 @@
+{
+  "name": "Sentimental",
+  "description": "Simple Sentiment Analysis for Twitter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ejs": "0.8.x",
+    "express": "3.x",
+    "mysql": "^2.10.2",
+    "path": "0.4.x",
+    "sentiment": "0.2.x",
+    "twitter": "^1.2.5"
+  }
+}

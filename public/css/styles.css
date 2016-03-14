@@ -1,0 +1,19 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+input.id
+{
+    font-size: 30px;
+    border-color: #999;
+    border-width: 0px 0px 1px 0px;
+}
+
+.submit {
+   font-size: 18px;
+   border: 0px;
+   padding: 10px;
+   background-color: #baff77;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+}
